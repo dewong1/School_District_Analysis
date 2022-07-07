@@ -33,18 +33,19 @@ Below is a screenshot of the reading score by grade:
 * There were no changes to math & reading scores by grade for all schools. The only difference is that the data under "9th Grade" for "Thomas High School" has "nan" instead of a number. 
 
 ### Scores by school spending
-* Ab
+* According to the two analysis, there were no changes in terms of the scores by school spending.
 
 ### Scores by sample size
-* Ab
+* According to the two analysis, there were no changes in terms of the scores by sample size. 
 
 #### Scores by school type
-* Ab
+* According to the two analysis, there were no changes in terms of the scores by school type as well. 
 
+Overall, since removing the following (Thomas High School-9th grade-Reading & Math scores), is such a small portion of the entire large portion of school district data, most of the data (key metrics of the original analysis) were not drastically altered.
 
 
 ## Summary
 
 ### Four changes in the updated school district analysis 
 
-Four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs...
+After replacing the reading and math scores for the ninth graders at Thomas High Schoool with NaNs, the four major changes that occurred included mnostly data within the school, Thomas High School, itself. (which makes sense considering that the only data modified was the data at this school). The changes mostly occurred in the following metrics: *average math and reading score*, *% passing math*, and *% passing reading*, and *% overall passing
