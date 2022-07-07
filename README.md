@@ -48,4 +48,4 @@ Overall, since removing the following (Thomas High School-9th grade-Reading & Ma
 
 ### Four changes in the updated school district analysis 
 
-After replacing the reading and math scores for the ninth graders at Thomas High Schoool with NaNs, the four major changes that occurred included mnostly data within the school, Thomas High School, itself. (which makes sense considering that the only data modified was the data at this school). The changes mostly occurred in the following metrics: *average math and reading score*, *% passing math*, and *% passing reading*, and *% overall passing
+After replacing the reading and math scores for the ninth graders at Thomas High Schoool with NaNs, the four major changes that occurred included mostly data within the school, Thomas High School, itself. (which makes sense considering that the only data modified was the data at this school). The changes mostly occurred in the following metrics: *average math and reading score*, *% passing math*, *% passing reading*, and *% overall passing
